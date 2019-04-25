@@ -1,0 +1,296 @@
+
+SOFTWARE LICENSE AGREEMENT
+1. DEFINITIONS AND INTERPRETATIONS.
+In this Agreement the following terms and phrases shall have the following
+meaning, unless the context otherwise requires:
+Licensor: FaceMatch Dev Team;
+Licensee: shall mean the part who buys the license of the software;
+Parts: shall mean the Licensor and the Licensee together;
+Software: shall mean Licensor’s proprietary software product(s) together with
+related documentation and components (including new releases, enhancements, and
+modifications provided under warranty or maintenance, if applicable), in this
+agreement also defined “FaceMatch”;
+Computer: shall mean a hardware system, physical or virtual, with a storage
+device capable of running the software;
+Agreement: shall mean this Agreement between Parts;
+License Fee: shall mean the fee for licensing the Software;
+Update: shall mean an electronic patch that is provided to users to add features
+to the software, to improve existing features or to make the software easier to
+use;
+Major update: shall mean a release of the Software with a newer version of the
+same product, in order to bring the system up to date or to improve its
+characteristics;
+Maintenance: shall mean modification of the Software to correct faults.
+
+2. OBJECT.
+The object of this agreement is the license of the Software product FaceMatch at
+the condition indicated in the registration file provided after the purchase of
+the software.
+
+3. TERM; DOWNLOAD; PAYMENT.
+The license granted hereunder is effective upon execution of this Agreement by
+Licensee and Licensor. The term of the license is accepted mutually in written
+by both Licensor and Licensee. The license shall remain in effect for such term
+unless terminated by either Party as set forth in Section 10.
+The Licensee will be able to download the Software by means of a secure on-line
+procedure, provided by the Licensor.
+Licensee shall pay Licensor the Fee within sixty (60) days from the date of the
+invoice. The Charges under this Agreement are exclusive of local, state, or
+federal use, excise, personal property, sales or other similar taxes or duties
+which may be imposed as a result of the transactions under this Agreement.
+Licensee shall be responsible for all such taxes and duties, except for taxes on
+Licensor net income.
+
+4. SOFTWARE LICENSE.
+Subject to the terms and conditions of this Agreement, Licensor hereby grants
+and Licensee accepts a not-transferable (with no right to sublicense or
+reselling) and non-exclusive license to use the Software and accompanying
+documentation in the manner described in this Agreement for the sole purpose of
+processing the work of Licensee’s own internal business.
+Licensee may not use the Software to process the work of any third party and may
+only use the Software at the specific location to which the Software is
+delivered.
+The Software, documentation, and supporting materials and all worldwide
+intellectual property rights and ownership rights therein are the sole and
+exclusive property of Licensor. All rights not expressly granted by Licensor
+under this Agreement are reserved by Licensor. The Software and documentation
+are protected by copyright and other intellectual property laws and by
+international treaties.
+There are various kind of licensing option. The license object of this Agreement
+is indicated in registration file.
+Kind of license:
+o SINGLE LICENSES - the Software may be used on the Computer originally
+designated for installation, and only at the specific location to which the
+Software is delivered.
+The Licensee will be able to change the Computer originally designated at
+any time with a specific permit from the Licensor.
+o SITE LICENSES - the Software may be used on any Computer at the specific
+location to which the Software is delivered. The Software may not be
+electronically or otherwise transferred to a different physical location.
+If Licensee desires to use the Software for additional simultaneous users,
+at another site, Licensee shall secure Licensor prior approval, which may
+be granted subject to additional charges.
+o PERMANENT LICENSES - the term of the license is perpetual unless otherwise
+specified in other legally binding document(s) accepted mutually by both
+Licensor and Licensee. The license shall remain in effect for such term
+unless terminated by either party as set forth in Section 10. For a period
+of one (1) year from the download of the Software, Licensor will provide
+maintenance services as described in Section 5 unless otherwise agreed by
+the parties.
+o RENT LICENSES - the term of the license is annual unless otherwise specified
+in other legally binding document(s) accepted mutually by both Licensor and
+Licensee. The license shall remain in effect for such term unless terminated
+by either party as set forth in Section 10. After one (1) year starting from
+the download of the Software, the license shall expire and the Software
+shall not be usable anymore. Thereafter, upon payment of the renewal fee by
+Licensee, the term of the license will be provided for twelve-month periods
+unless terminated by either party upon thirty (30) days written notice prior
+to the renewal date. In that respect, Licensor undertakes to notify
+Licensee, at least sixty (60) days before the end of the current twelvemonth period, of the renewal fee for the next period. Renewal fees are
+payable in advance on the anniversary date of the order. Licensor reserves
+the right to change its renewal fee, at its sole discretion. Additional
+charges apply to initiate maintenance for Software that has not been under
+continuous maintenance since installation. Within the terms of validity of
+the license and of its renewal, Licensor will provide maintenance and
+update services as described in Section 5 unless otherwise agreed by the
+parties.
+o EVALUATION LICENSES – the license is intended only for evaluating the
+product performances and functionalities. Licensee agrees that it will use
+the Software relating thereto solely for evaluation purposes.
+o ACADEMIC LICENSE - this license may be only used for academic research and
+no commercial use is allowed. It is designed to foster and support bona fide
+Academic research. If the Academic licensing policy is respected, there is
+no expiration for an academic license. ACADEMIC LICENSE is contingent on the
+eligibility of the licensee, determined solely by licensor, based on
+academic licensing policy, and contingent on the continued accuracy of the
+pertinent information provided by the licensee. Any determination of
+academic eligibility, and academic licensing policy, including pricing, may
+be changed at any time without prior notice, at licensor sole discretion.
+Only university research groups and nonprofit organizations are eligible for
+ACADEMIC LICENSE. ACADEMIC LICENSE is intended only for research from which
+any resulting intellectual property remains in the public domain. Research
+done with the software which is intended to lead to a commercial
+product/service or for which any of the resulting intellectual property is
+expected to be held by or licensed to a private corporation, is not eligible
+for the ACADEMIC LICENSE, regardless of the nature of the institution at
+which the research is completed.
+In cases where a research project is represented as Academic, in good faith
+or otherwise, for which an ACADEMIC LICENSE is used, and any data,
+intellectual property or products resulting from the research project are
+subsequently commercialized, the ACADEMIC LICENSE agreement will have been
+breached. Since the Software has been used for commercial purposes, the
+Licensee agrees to compensate Licensor based on the commercial list prices
+of the Software at the time the ACADEMIC LICENSE was executed.
+Licensor will determine ACADEMIC LICENSE eligibility on a research group
+specific case basis. Thus, ACADEMIC LICENSES will only apply to the research
+group of a specific individual (principal investigator). Licensee may
+install and use the Software on three (3) Computers at the research site.
+Licensee may not allow anyone other than the principal investigator and the
+immediate members of the research group to use the Software.
+Licensor reserves the right to change its Academic Licensing Policy at any
+time, at its sole discretion, without prior notice. If any such changes are
+unacceptable to the Licensee, the ACADEMIC LICENSE shall be immediately
+terminated.
+
+5. SOFTWARE MAINTENANCE AND UPDATE.
+Maintenance service under this Agreement includes commercially reasonable
+electronic mail assistance and consultation to assist Licensee in resolving
+problems with the use of the Software, including the verification, diagnosis,
+and correction of material errors and defects in the Software. Maintenance
+service does not include new products sold separately by Licensor, and such
+products must be separately licensed by Licensor. Maintenance service will be
+provided for the release version of the Software provided to the Licensee and
+only on computer platforms that Licensor commercially supports.
+Update service under this Agreement includes the possibility for the Licensee to
+obtain any Major update of the Software that will be released. Licensor will
+promptly communicate to Licensee every Major update release and provide a
+secure on-line procedure to download the Software.
+
+6. DISCLAIMER OF WARRANTY.
+This Software is provided "AS IS" without warranty of any kind, either expressed
+or implied. Neither Licensor nor its suppliers warrant that the software or any
+use of the software or equipment will be uninterrupted or error-free. In no
+event shall the author, copyright holder or any other party who may redistribute
+the Software be liable to the Licensee for damages. This includes any general,
+special, incidental or consequential damages arising out of the use or inability
+to use the Software (including, but not limited to, loss of data, data being
+rendered inaccurate, loss of business profits, loss of business information,
+business interruptions, loss sustained by you or third parties, or a failure of
+the Software to operate with any other software) even if the author, copyright
+holder or other party has been advised of the possibility of such damages.
+
+7. LIMITATION OF LIABILITY.
+In no event will Licensor aggregate liability to Licensee or any third party for
+any losses or damages that arise out of the performance or breach of this
+agreement, whether in contract, tort, or other form of action, exceed the total
+fees paid to licensor under this agreement. In no event shall Licensor be liable
+for any direct or indirect damages, including, but not limited to, lost profits,
+loss of goodwill, data loss, business disruption, or computer failure. Licensee
+acknowledges that the license fees reflect the allocation of risk set forth in
+this agreement and that licensor would not enter into this agreement on the
+terms hereof without these limitations on its liability.
+
+8. NON-DISCLOSURE; ALTERATIONS; COPIES.
+Licensee acknowledges and agrees that the Software, its structure, organization,
+source code and related documentation are valuable and proprietary trade secrets
+of Licensor. Licensee shall (i) maintain the confidentiality of the Software,
+using, at a minimum, the same safeguards afforded its own confidential,
+proprietary trade secrets, but in no event less than reasonable care; (ii) not
+disclose, provide, transfer, rent, sublicense, or otherwise make available any
+portion of the Software to any third party, without first obtaining Licensor’
+written consent. Licensee's non-disclosure obligation shall not apply to
+information now or hereafter in the public domain through no fault of Licensee,
+information in the possession of Licensee prior to disclosure by Licensor,
+information properly obtained without restriction from a third party who is not
+bound by an obligation of confidentiality to Licensor, or information
+independently developed by Licensee without reference to the Software.
+Licensee shall not (i) alter, modify, adapt, translate, reverse engineer,
+decompile, disassemble, or create derivative works from the Software, nor take
+any other steps intended to produce a source language statement of the Software
+or any part thereof without Licensor’ express prior written consent; (ii) rent,
+lease, grant a security interest in, or otherwise transfer rights of the
+Software ; (iii) manipulate or alter the components that make up this Software
+in any way; (iv) repackage the files that come with this Software ; (v) make the
+Software publicly or privately available (including, but not limited to,
+uploading to publicly accessible archives, mirroring and distribution of the
+Software on CD-ROM, floppy disk or similar media) unless specifically and
+explicitly licensed by the Licensor to do so; (vi) use parts of this Software in
+order to enhance competing products; (vii) remove any proprietary notices or
+labels on the Software.
+Licensee is authorized to copy the Software solely for backup, archival, and
+disaster recovery purposes and only to the minimum extent necessary to
+accomplish such purposes. Licensee shall not remove any copyright or proprietary
+rights notices from the Software and shall reproduce all such notices on any
+copies that it makes. Licensee is prohibited from copying, in whole or in part,
+any Software documentation or training materials.
+Licensee shall use every single License of Software only in a single Computer.
+Every use of a single Licence from more than one Computer (for example
+installing software in more than one computer or accessing a Computer in remote
+mode) is strictly forbidden.
+In case of commercial use or resell to third part, Licensee is prohibited from
+insert the Software in other software or platform without written authorization
+from Licensor.
+The obligations of this Section shall survive termination of this Agreement or
+any license granted hereunder.
+
+9. INFRINGEMENT INDEMNIFICATION.
+Licensor shall at its expense defend Licensee against any claim, and shall
+indemnify and hold Licensee harmless from any final judgment, that a current,
+unmodified copy of the Software infringes an Italian or International patent or
+copyright, provided that (i) Licensor is given prompt written notice of any such
+claim, (ii) Licensor shall have sole control of the settlement or defence of any
+action against Licensee to which this indemnity applies; and (iii) Licensee
+cooperates with Licensor, at Licensor’ expense, in every reasonable way to
+facilitate such defence.
+Should the use of the Software be enjoined, or should Licensor desire to
+minimize its liabilities hereunder, Licensor shall have the right, at its sole
+option and expense, to secure the right for Licensee to continue use of the
+Software or to replace or modify the Software to make it no infringing. If such
+remedies are not reasonably available, Licensee shall be entitled to a prorate
+refund of the License Fee paid for such Software based on a five-year
+amortization. The foregoing sets forth the entire liability of Licensor and
+Licensee's sole and exclusive remedy with respect to claims of infringement
+arising from Licensee's use of the Software.
+
+10. TERMINATION.
+Licensor has the right to terminate this License Agreement and Licensee’s right
+to use this Software upon any material breach by Licensee.
+If either party breaches a provision of this Agreement, the other party may give
+written notice of default. If the breaching party fails to cure the breach
+within sixty (60) days, this Agreement may be terminated immediately by the
+other party. In the event that Licensee breaches any of the licensing or
+confidentiality provisions of this Agreement, this Agreement shall terminate
+immediately upon written notice by Licensor. Failure to pay any or all fees due
+hereunder shall constitute a material breach of this Agreement.
+Upon any termination of this Agreement, all licenses granted hereunder shall
+cease, and Licensee shall make no further use of the Software and shall either
+return to Licensor or destroy originals and all copies of the Software and
+supporting materials. No refunds or credits will be due Licensee.
+The agreement immediately terminates if Licensee breaches the prevision of
+article nn. 3-4-8-9-11-12.
+
+11. INTELLECTUAL PROPERTY AND CONFIDENTIAL INFORMATION.
+The software and the name of the software are property of the Licensor. Their
+use is restricted and special permission is required before any use may be made
+of them.
+Licensor grant does not include the source code.
+If the Software is used by Licensee to obtain results that are published in a
+scientific journal or other publication, Licensee will acknowledge its use of
+the Software with an appropriate citation, which shall include Licensor’ full
+corporate name, the name of the Software product used as well as the names of
+the owners of the intellectual property rights of the Software used.
+
+12. MODIFICATION.
+This Agreement may be modified only in writings signed by both parties. Terms
+and conditions on any Licensee purchase order or other ordering document shall
+not be deemed to modify this Agreement, and are hereby replaced and superseded
+by the terms and conditions of this Agreement. Additional purchases of Software
+licenses by Licensee without execution of another agreement will be governed by
+the terms of this Agreement unless the parties otherwise agree in writing. The
+failure by either party to insist upon strict enforcement of any terms and
+
+conditions of this Agreement shall not be construed as a waiver of the right to
+assert or rely upon any such terms on any future occasion.
+This Agreement and any attachments and addenda or other legally binding
+document(s) constitute the entire agreement between the parties with respect to
+the subject matter hereof (attachment A and any future attachment A signed by
+Licensor and Licensee are expressly incorporated by reference into this
+agreement) and supersedes any prior or contemporaneous representations,
+promises, warranties, or understandings between the Parties.
+This Agreement shall be considered accepted and shall become effective by the
+Licensee's use of the Software.
+
+13. APPLICABLE LAW, JURISDICTIONAL MATTERS.
+This Agreement is governed by and construed under the laws of Italy without
+regard to its conflict of law rules. Any action arising out of or in connection
+with this Agreement may be heard exclusively in Camarines Sur, (Philippines), and the
+Licensee hereby irrevocably consent to the exclusive jurisdiction and venue of
+this court.
+
+14. COMUNICATION.
+All notices required hereunder shall be in writing and sent by certified mail,
+express mail, or via electronic means agreed-upon by the parties, such as
+facsimile, to the addresses written above, or such other address as noticed to
+the parties.
+Address: San Francisco, Lagonoy, Camarines Sur - Philippines
+Email: sevenabante9@gmail.com
